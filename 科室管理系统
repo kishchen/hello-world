@@ -1,0 +1,18 @@
+任务目标(Objective 1)：
+开发一个简单的任务管理系统，以供科室内部管理。
+具体技术指标(Key Result 1:)
+具备任务下达、反馈功能。
+具体技术指标(Key Result 2:)
+具备任务计划调整功能。
+具体技术指标（Key Result 3:)
+具备员工基本信息管理（工号、姓名、密码、职责、联系电话）功能
+任务目标(Objective 2):
+锻炼程序语言使用能力。
+具体技术指标(Key Result 1:)
+使用SpringFrameWork框架
+具体技术指标(Key Result 2:)
+使用线程管理
+具体技术指标(Key Result 3:)
+使用MySQL数据库
+具体技术指标(Key Result 4:)
+使用HTML前端（困难，目前还没搞定网页开发部署知识）
